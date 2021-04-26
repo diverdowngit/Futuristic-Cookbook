@@ -2,7 +2,7 @@
 
 ## Project summary
 
-API to serve data, from PostgreSQL database, to [`wbs-futuristic-cookbook`](https://github.com/Massimilianok/wbs-futuristic-cookbook) project.
+API to serve data, from PostgreSQL database, to  project.
 
 ## Main technologies
 
